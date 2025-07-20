@@ -1,18 +1,13 @@
+import os
+import sys
 
-author = 'Your Name'
-release = ''
+project = 'USAA Indetity'
 
-
-extensions = []
-
-exclude_patterns = []
-
-html_theme = 'alabaster'
-html_static_path = ['_static']
-html_css_files = ['custom.css']
 html_sidebars = {'**': []}
 html_title = ""
-html_js_files = ['hide-version.js']
 
 
-
+# Add any paths that contain custom static files (such as style sheets)
+# here, relative to this directory. These files are copied after the built-in
+# static files, so a file named "default.css" will overwrite the vjdig code built-in one.
+# html_static_path = ['_static']
