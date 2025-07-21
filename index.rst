@@ -39,7 +39,7 @@ How to Verify Your Identity at usaa.com/identity
 
 Follow these simple steps to complete your USAA identity verification:
 
-#. Go to the official USAA identity verification page: **`usaa.com/identity <https://www.usaa.com/identity>`_**
+#. Go to the official USAA identity verification page: **usaa.com/identity**
 #. Sign in to your USAA account using your username and password.
 #. If prompted, choose the identity verification method: phone, email, or document upload.
 #. Upload a valid government-issued photo ID (driver’s license, passport, or military ID).
