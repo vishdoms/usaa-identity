@@ -15,7 +15,7 @@ usaa.com/identity: How to Verify Your Identity Securely?
    :align: center
    :height: 100px
    :alt: Verify Your Identity at usaa.com/identity
-   :target: https://www.google.com/url?q=https%3A%2F%2Fwww.usaa.com%2Fidentity&sa=D&sntz=1&usg=AOvVaw3gFtZtqzA8cZBh4usaa
+  
 
 .. image:: blank.png
    :width: 350px
